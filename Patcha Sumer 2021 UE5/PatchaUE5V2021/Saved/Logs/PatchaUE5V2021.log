@@ -1476,3 +1476,107 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.06.01-13.34.04:770][317]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/PatchaGameInstance7B4A693047F2CD99F79C23A88E346EC0.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/GameInstance/PatchaGameInstance.uasset'
 [2021.06.01-13.34.04:781][317]AssetCheck: New page: Asset Save: PatchaGameInstance
 [2021.06.01-13.34.04:781][317]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/GameInstance/PatchaGameInstance.PatchaGameInstance
+[2021.06.01-13.34.53:459][ 17]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.01-13.34.53:514][ 17]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.01-13.34.54:943][164]LogContentBrowser: Attempting asset rename: NewFolder -> Actors
+[2021.06.01-13.34.54:944][164]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.01-13.34.59:989][603]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.06.01-13.35.00:003][603]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.06.01-13.35.00:012][603]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.06.01-13.35.02:770][867]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Coin
+[2021.06.01-13.35.02:774][867]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.06.01-13.35.03:564][939]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/BP_CoinF778CE3C4D64CBB90F7820AC32D367FC.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/Blueprints/Actors/BP_Coin.uasset'
+[2021.06.01-13.35.03:572][939]AssetCheck: New page: Asset Save: BP_Coin
+[2021.06.01-13.35.03:572][939]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Actors/BP_Coin.BP_Coin
+[2021.06.01-13.35.04:279][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Actors/BP_Coin.BP_Coin
+[2021.06.01-13.35.52:696][547]BlueprintLog: New page: Compile BP_Coin
+[2021.06.01-13.35.52:746][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.06.01-13.37.13:026][380]BlueprintLog: New page: Compile BP_Coin
+[2021.06.01-13.37.13:028][380]LogBlueprint: Warning: [AssetLog] C:\Users\enthu\Documents\GitHub\Patchas-Big-Adventure-V1.1\Patcha Sumer 2021 UE5\PatchaUE5V2021\Content\ThirdPersonBP\Blueprints\Actors\BP_Coin.uasset: [Compiler] 'Patcha Game Instance' does not inherit from 'Actor' ( Cast To PatchaGameInstance  would always fail).
+[2021.06.01-13.37.13:072][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.06.01-13.37.37:167][816]BlueprintLog: New page: Compile BP_Coin
+[2021.06.01-13.37.37:168][816]LogBlueprint: Warning: [AssetLog] C:\Users\enthu\Documents\GitHub\Patchas-Big-Adventure-V1.1\Patcha Sumer 2021 UE5\PatchaUE5V2021\Content\ThirdPersonBP\Blueprints\Actors\BP_Coin.uasset: [Compiler] 'Patcha Game Instance' does not inherit from 'Third Person Character' ( Cast To PatchaGameInstance  would always fail).
+[2021.06.01-13.37.37:211][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.01-13.37.55:312][742]LogEditorTransaction: Undo Move Node
+[2021.06.01-13.38.08:041][ 18]BlueprintLog: New page: Compile BP_Coin
+[2021.06.01-13.38.08:084][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.01-13.38.09:016][103]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/BP_Coin49FB701D46C86934F635859008C67EB5.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/Blueprints/Actors/BP_Coin.uasset'
+[2021.06.01-13.38.09:027][103]AssetCheck: New page: Asset Save: BP_Coin
+[2021.06.01-13.38.09:027][103]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Actors/BP_Coin.BP_Coin
+[2021.06.01-13.38.16:182][720]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2021.06.01-13.38.16:190][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-13.38.16:190][720]PIE: New page: PIE session: ThirdPersonExampleMap (1 Jun 2021, 15:38:16)
+[2021.06.01-13.38.16:190][720]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.01-13.38.16:198][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007975s)
+[2021.06.01-13.38.16:199][720]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.01-13.38.16:199][720]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.06.01-13.38.16:199][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009057s)
+[2021.06.01-13.38.16:241][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.01-13.38.16:243][720]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-13.38.16:243][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-13.38.16:243][720]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-13.38.16:243][720]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-13.38.16:247][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-13.38.16:247][720]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-13.38.16:254][720]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.06.01-13.38.16:255][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-13.38.16:255][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-13.38.16:255][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-13.38.16:256][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-13.38.16:256][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-13.38.16:256][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-13.38.16:256][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-13.38.16:256][720]LogInit: FAudioDevice initialized.
+[2021.06.01-13.38.16:256][720]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2021.06.01-13.38.16:304][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-13.38.16:305][720]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.01-13.38.16:306][720]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.01-14.38.16
+[2021.06.01-13.38.16:306][720]LogWorld: Bringing up level for play took: 0.001644
+[2021.06.01-13.38.16:307][720]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.01-13.38.16:311][720]PIE: Server logged in
+[2021.06.01-13.38.16:312][720]PIE: Play in editor total start time 0.125 seconds.
+[2021.06.01-13.38.27:568][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-13.38.27:568][456]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.01-13.38.27:569][456]LogSlate: Window 'PatchaUE5V2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-13.38.27:573][456]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-13.38.27:573][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-13.38.27:579][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-13.38.27:586][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-13.38.27:611][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-13.38.27:611][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-13.38.27:613][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-13.38.27:617][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.06.01-13.38.27:644][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.06.01-13.38.27:669][457]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.01-13.39.33:387][243]BlueprintLog: New page: Compile PatchaGameInstance
+[2021.06.01-13.39.33:421][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.01-13.39.36:897][580]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/PatchaGameInstanceC3E8575741B735A44777D481FDB6AE72.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/GameInstance/PatchaGameInstance.uasset'
+[2021.06.01-13.39.36:906][580]AssetCheck: New page: Asset Save: PatchaGameInstance
+[2021.06.01-13.39.36:906][580]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/GameInstance/PatchaGameInstance.PatchaGameInstance
+[2021.06.01-13.40.08:035][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.06.01-13.40.08:049][756]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/ThirdPersonExampleMap_Auto2B3E2DDE840530DC166B88CBC26129A30.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.06.01-13.40.08:051][756]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2021.06.01-13.40.08:051][756]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2021.06.01-13.40.12:795][208]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/BP_Coin1044AEFB446328E15DFD7D856F2CD6D2.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/Blueprints/Actors/BP_Coin.uasset'
+[2021.06.01-13.40.12:806][208]AssetCheck: New page: Asset Save: BP_Coin
+[2021.06.01-13.40.12:806][208]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Actors/BP_Coin.BP_Coin
+[2021.06.01-13.40.15:447][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.06.01-13.40.16:391][455]LogSlate: Window 'Save Content' being destroyed
+[2021.06.01-13.40.16:462][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.01-13.40.16:475][455]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/ThirdPersonExampleMap7CE8F6674ED502737F3120A03D9089C3.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.01-13.40.16:481][455]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.06.01-13.40.16:558][455]LogSavePackage: Moving 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Saved/ThirdPersonExampleMap_BuiltData869709F742308775D7A23AAE008E1CA2.tmp' to 'C:/Users/enthu/Documents/GitHub/Patchas-Big-Adventure-V1.1/Patcha Sumer 2021 UE5/PatchaUE5V2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.01-13.40.16:559][455]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2021.06.01-13.40.16:559][455]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.122
+[2021.06.01-13.40.16:571][455]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.01-13.40.16:571][455]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.01-13.40.16:571][455]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
